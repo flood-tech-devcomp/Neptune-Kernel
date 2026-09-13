@@ -19,3 +19,4 @@ make clean && make
 qemu-system-i386 -net none -kernel sysroot/neptune.bin
 ```
 If you want to run it on windows you will need a 'fedora WSL' 'arch Linux WSL' or 'Ubuntu WSL'
+you will only need one of these
